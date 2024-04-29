@@ -1,0 +1,4 @@
+/.mypy_cache
+/env
+/.vscode
+/src/AgendadeContactos/gui
